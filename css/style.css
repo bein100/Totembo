@@ -170,9 +170,7 @@ h3 {
     border-radius: 10px;
 }
 
-.leader{
-    text-align: center;
-}
+
 .leader-cards {
     display: flex;
     flex-wrap: wrap;
@@ -245,6 +243,7 @@ h3 {
     font-size: 30px;
     color: #323232;
     padding-bottom: 60px;
+    width: max-content;
 }
 
 h2 {
