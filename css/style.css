@@ -352,7 +352,7 @@ footer {
 .fit{
     display: flex;
     align-items: center;
-    gap: 26px;
+    gap: 15px;
 }
 
 .burger{
