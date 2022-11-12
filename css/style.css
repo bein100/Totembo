@@ -12,6 +12,7 @@ body {
     list-style-type: none;
     border: none;
     font-family: MR;
+    color: red;
 }
 
 .container {
