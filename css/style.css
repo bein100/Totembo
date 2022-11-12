@@ -44,7 +44,7 @@ body {
 
 .header-nav-list__link {
     text-transform: capitalize;
-    color: blue;
+    color: #323232;
 }
 
 .header-line {
